@@ -1,0 +1,3 @@
+####PS Snippets####
+
+Get-EventLog Application -After (Get-Date).AddHours(-2)
